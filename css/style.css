@@ -208,6 +208,9 @@ input, textarea{
     padding: 15px;  
 }
 
+textarea{
+    height: 110px;
+}
 
 .submit-btn{
     width: 25%;
