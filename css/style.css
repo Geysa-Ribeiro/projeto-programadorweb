@@ -254,6 +254,7 @@ footer p{
     display: flex;
     justify-content: center;
     gap: 2%;
+    margin-left: 4%;
 }
 .icon img{
     width: 35px;
